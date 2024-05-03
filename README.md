@@ -1,4 +1,4 @@
-# Hungry for E-Waste - README
+# Hungry for E-Waste
 
 ## Introduction
 Welcome to **Hungry for E-Waste**, a project developed for the final round of the SIH 2023 hackathon. Hungry-E is a disruptive innovator, pioneering processes in formalized e-waste management in India. Our platform facilitates proper and safe collection, transportation, segregation, and disposal of e-waste.
